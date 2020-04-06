@@ -14,6 +14,6 @@
   },
   "devDependencies": {
     "code": "^4.0.0",
-    "lab": "^16"
+    "lab": "^22.0.4"
   }
 }
