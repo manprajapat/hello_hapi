@@ -14,6 +14,6 @@
   },
   "devDependencies": {
     "code": "^4.0.0",
-    "lab": "^22.0.4"
+    "@hapi/lab": "^22.0.4"
   }
 }
